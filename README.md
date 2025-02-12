@@ -33,3 +33,9 @@ Proper labels, legends, and axis rotations ensure clarity in visualization.
 
 Final Display
 The script uses plt.tight_layout() to optimize spacing and plt.show() to display the final weather dashboard
+
+
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/51f9cdd5-6fe8-49ac-9558-18ba7e771c56)
+
